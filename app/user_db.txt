@@ -1,0 +1,18 @@
+- User Table
+{
+    string:     name,
+    string:     screenName,
+    string:     email,
+    string:     phoneNumber,
+    date:       birthday,
+    string:     uid,
+    string:     photoUrlFront,
+    string:     photoUrlSide,
+    string:     locationName,
+    int:        locationPosLong,
+    int:        locationPosLat,
+    int:        age,
+    datetime:   dateJoined,
+    string:     status,
+    string:     loginStatus,
+}

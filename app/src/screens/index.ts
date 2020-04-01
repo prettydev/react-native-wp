@@ -1,0 +1,15 @@
+export { default as LoginScreen } from './LoginScreen';
+export { default as RegisterScreen } from './RegisterScreen';
+export { default as ForgotPasswordScreen } from './ForgotPasswordScreen';
+export { default as Dashboard } from './Dashboard';
+export { default as UploadScreen } from './UploadScreen';
+export { default as FaceRecognition } from './FaceRecognition';
+export { default as HomeScreen } from './HomeScreen';
+export { default as CreateGroup } from './CreateGroup';
+export { default as GroupInvitation } from './GroupInvitation';
+export { default as TargetScreen } from './TargetScreen';
+export { default as ClosePlayers } from './ClosePlayers';
+export { default as NotificationScreen } from './NotificationScreen';
+export { default as ChoosenTargetScreen } from './ChoosenTargetScreen';
+export { default as SecretTarget } from './SecretTarget';
+export { default as KilledScreen } from './KilledScreen';

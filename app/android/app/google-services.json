@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "825670207641",
+    "firebase_url": "https://snap-sniper-268305.firebaseio.com",
+    "project_id": "snap-sniper-268305",
+    "storage_bucket": "snap-sniper-268305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825670207641:android:01ed98bce0242ccd469008",
+        "android_client_info": {
+          "package_name": "com.rpgassassin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825670207641-isd2e7nl69ps352cupjeuskmtdhffpin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rpgassassin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "825670207641-945iasj1uf7jh3jkn4b5dlllsdpikio1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rpgassassin",
+            "certificate_hash": "396312ec1a8a497a751f107b05b645a2aa69a77d"
+          }
+        },
+        {
+          "client_id": "825670207641-q5b1hargnfaja3kftk95l7ots60po67j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUu0QX0CJwwvCd_F3fbHOriuLQZIz9w74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825670207641-vksjj1dsb3vialdoa9nu5vvr8jaob34a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

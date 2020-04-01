@@ -1,0 +1,41 @@
+IP Address: 139.99.237.61
+URL: vps271456.vps.ovh.ca
+
+Username: root
+Password: Meiling2019.
+
+-apple
+Username: mogsten@outlook.com
+Password: SonamL2019.
+
+If you need bundle ID, it’s com.frothapps.snapsniper
+Apple ID for the app is: 1485684122
+
+Mysql DB connection
+url: 139.99.237.61
+username: wordpress_user
+password: Password123!
+
+Google Maps API Key with JS Enabled
+
+AIzaSyA8qDMXrjBp0ReKJcAcLdEMHWK9PsBp0s
+
+Username: alexander.mogavero@gmail.com
+Password: FrothApps7755.
+-----------------------------------------------
+Facebook - iOS
+CFBundleURLSchemes
+fb2403002293274210
+
+Facebook App ID
+2403002293274210
+
+Facebook Display Name
+Snap Sniper
+
+Facebook Protocol Scheme
+fb2403002293274210
+
+stripe
+Publishable Key: pk_test_M2uVFMQ8wi1Yuf1vgDNsb4V7
+Secret Key: sk_test_CIlQLWqJmuSmDFQoQwvDYZAp
